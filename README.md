@@ -1,8 +1,8 @@
 # The Saturday World — 21 November 2026
 
 [![bounty](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
-[![rank](https://make.fun/badge/news-image-20261121/Indramunggahari10/news-image-20261121-ono10-v3/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard)
-[![reward](https://make.fun/badge/news-image-20261121/Indramunggahari10/news-image-20261121-ono10-v3/reward.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/vjmunggahari-ui/news-image-20261121-ono10-v3/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261121/vjmunggahari-ui/news-image-20261121-ono10-v3/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 One image summing up the world news of **Saturday 21 November 2026** — a dense
 newspaper front page: 35 stories across 6 regions, a numbers strip, three
